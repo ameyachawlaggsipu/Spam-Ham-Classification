@@ -26,3 +26,7 @@ Opensource work done for my mentorship program Delta Winter of Code
 
 
 Accuracy Graph where Naive Bayes model having 6302 features and train/test split of 0.2 produced highest accuracy of 0.9847533632286996
+
+Confusion Matrix for best case 
+
+![Screenshot (1658)](https://user-images.githubusercontent.com/88154798/144705692-dc1ff5e0-2c6d-45ce-afb8-21b008e976fb.png)
